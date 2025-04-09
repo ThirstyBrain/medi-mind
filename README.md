@@ -1,8 +1,3 @@
-Absolutely! Here's a consolidated `README.md` for your full-stack **MediMind** project, combining both the Python backend (`medi-mind`) and the React TypeScript frontend (`medi-mind-ui`):
-
----
-
-```markdown
 # MediMind 🧠💬
 
 **MediMind** is an AI-powered healthcare chatbot that uses scientific articles from **PubMed** and **HuggingFace’s Mixtral-8x7B model** to deliver precise answers to medical queries. It consists of:
